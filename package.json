@@ -1,0 +1,19 @@
+{
+  "name": "service-order",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/cristianomesquita/service-order.git"
+  },
+  "author": "Cristiano Mesquita",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/cristianomesquita/service-order#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
