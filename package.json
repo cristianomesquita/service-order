@@ -14,6 +14,9 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/cristianomesquita/service-order#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-load": "^1.1.15",
+    "mongoose": "^4.8.6"
   }
 }
